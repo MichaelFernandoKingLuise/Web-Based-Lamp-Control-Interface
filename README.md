@@ -1,0 +1,1 @@
+A simple web-based interface to control a lamp using HTML, CSS, JavaScript, and Tailwind CSS. The project includes an interactive switch to turn the lamp on and off, with corresponding visual feedback using animated images.
